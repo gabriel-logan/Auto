@@ -1,0 +1,5 @@
+/gitpush
+/gitpush.exe
+node_modules/
+.env
+.env.local
